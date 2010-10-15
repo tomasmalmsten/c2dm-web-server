@@ -1,0 +1,13 @@
+This is the web application server to support the C2DM application test.
+
+You are free to use and abuse this code as is without any warranty.
+
+Please note that when you have check the code out you will need to issue two
+more git command before you can run the server:
+git submodule init
+git submodule update
+
+Tornado is added as a git sub module. The above commands will check out the
+latest Tornado from github.
+
+Have fun.
