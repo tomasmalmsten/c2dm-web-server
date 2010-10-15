@@ -10,4 +10,8 @@ git submodule update
 Tornado is added as a git sub module. The above commands will check out the
 latest Tornado from github.
 
+You will need to add a valid gmail account that has been accepted to test C2DM
+to ClientLoginTokenFactory. See the official website for more info:
+http://code.google.com/intl/sv-SE/android/c2dm/index.html
+
 Have fun.
