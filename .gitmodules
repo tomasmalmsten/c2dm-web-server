@@ -1,0 +1,3 @@
+[submodule "vendor/tornado"]
+	path = vendor/tornado
+	url = http://github.com/facebook/tornado.git
